@@ -7,7 +7,7 @@ library(tidyverse)
 library(spatialLIBD)
 library(dbscan)
 library(scran)
-library(patchwork)
+
 library(igraph)
 library(CellBench)
 library(scater)
