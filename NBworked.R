@@ -280,7 +280,6 @@ if (length(valid_p_values) > 0) {
   # Print the proportion of significant genes
   cat("proportion_significant ", proportion_significant, '\n')
 } else {
-  # Handle the case where there are no valid p-values
-  warning("No valid p-values available for q-value analysis.")
+ 
 }
 
